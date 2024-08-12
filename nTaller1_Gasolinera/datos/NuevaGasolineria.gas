@@ -1,0 +1,13 @@
+tipo:Extra:15000:8000.0
+tipo:Corriente:10000:10000.0
+tipo:Super-plus:25000:6000.0
+tipo:Plus:20000:7000.0
+surtidor:Pablo:Extra:0.0:Corriente:0.0:Super-plus:0.0:Plus:0.0
+surtidor:Juan:Extra:0.0:Corriente:0.0:Super-plus:0.0:Plus:0.0
+surtidor:Simon:Extra:0.0:Corriente:0.0:Super-plus:0.0:Plus:0.0
+surtidor:Juan:Extra:0.0:Corriente:0.0:Super-plus:0.0:Plus:0.0
+empleado:Pablo:0
+empleado:Camilo:0
+empleado:Simon:0
+empleado:Daniel:0
+empleado:Juan:0
